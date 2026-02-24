@@ -32,7 +32,7 @@ Nota: En esta versión (Sprint 3), la conexión con Telegram se muestra como par
 - **ChatGPT** (diseño de prompts y apoyo en depuración/ajustes del prototipo en Replit hasta obtener la versión final)
 
 ## Capturas de pantalla del prototipo funcionando
-Las capturas fueron tomadas del prototipo corriendo en Replit; algunas incluyen anotaciones en Canva para facilitar la lectura.
+Las anotaciones en Canva se usan solo para resaltar inputs y el flujo; la interfaz mostrada corresponde al prototipo real corriendo en Replit.
 
 - Captura 1 (config-inputs): Formulario de configuración
 ![Formulario de configuración](screenshots/config-inputs.jpg)
