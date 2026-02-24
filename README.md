@@ -39,3 +39,6 @@ Las anotaciones en Canva se usan solo para resaltar inputs y el flujo; la interf
 
 - Captura 2 (flow-end-to-end): Preview / Resultado generado 
 ![Flujo end-to-end](screenshots/flow-end-to-end.jpg)
+
+-Captura 3 (intermedio-ii): Ejemplo generado con Nivel Intermedio II
+![Ejemplo Nivel Intermedio II](screenshots/nivel-intermedio-ii.png)
