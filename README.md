@@ -34,6 +34,7 @@ Nota: En esta versión (Sprint 3), la conexión con Telegram se muestra como par
 ## Capturas de pantalla del prototipo funcionando
 
 - Captura 1 (config-inputs): Formulario de configuración
-
+![Formulario de configuración](screenshots/config-inputs.jpg)
 
 - Captura 2 (flow-end-to-end): Preview / Resultado generado 
+![Flujo end-to-end](screenshots/flow-end-to-end.jpg)
