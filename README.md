@@ -109,10 +109,9 @@ Nota: En esta versión (Sprint 3), la conexión con Telegram se muestra como par
 Las capturas fueron tomadas del prototipo corriendo en Replit; algunas incluyen anotaciones en Canva para facilitar la lectura. Las anotaciones en Canva se usan solo para resaltar inputs y el flujo; la interfaz mostrada corresponde al prototipo real corriendo en Replit.
 
 ### Captura 1 (config-inputs): Formulario de configuración
-![Formulario de configuración](screenshots/config-inputs.jpg)
-
+![Formulario de configuración](screenshots/config-inputs.png)
 ### Captura 2 (flow-end-to-end): Flujo end-to-end (Input → Modelo (LLM) → Respuesta)
-![Flujo end-to-end](screenshots/flow-end-to-end.jpg)
+![Flujo end-to-end](screenshots/flow-end-to-end.png)
 
 ### Captura 3 (level-intermedio-ii): Ejemplo generado con Nivel Intermedio II
-![Ejemplo Nivel Intermedio II](screenshots/level-intermedio-ii.png)
+![Ejemplo del Nivel Intermedio II](screenshots/Ejemplo%20del%20Nivel%20Intermedio%20II.png)
